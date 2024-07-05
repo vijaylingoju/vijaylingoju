@@ -30,3 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaylingoju&show_icons=true&locale=en" alt="vijaylingoju" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaylingoju&" alt="vijaylingoju" /></p>
+
+## Watch snake eating my github contributions 
+ 
+![snake gif](https://github.com/vijaylingoju/vijaylingoju/blob/output/github-contribution-grid-snake.svg)
