@@ -1,0 +1,22 @@
+name: Snake Eating GitHub Contributions
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Generate Snake GIF
+        uses: Platane/snk@v2
+        with:
+          github_user: "vijaylingoju"  # Replace with your GitHub username
+          gif_out_path: "github-contribution-grid-snake.svg"
