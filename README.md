@@ -71,7 +71,3 @@
 📧 lingoju.vijay111@gmail.com
 
 ---
-
-## 🐍 Contribution Graph
-
-![snake gif](https://github.com/vijaylingoju/vijaylingoju/blob/output/github-contribution-grid-snake.svg)
