@@ -40,7 +40,7 @@
 - 🔹 Scalable backend APIs using Node.js & Express
 
 🌍 Portfolio:  
-👉 https://vijaylingoju.netlify.app/
+👉 https://vijaylingoju.vercel.app/
 
 ---
 
@@ -68,7 +68,7 @@
 
 ## 📫 Contact
 
-📧 vijaylingoju111@gmail.com
+📧 lingoju.vijay111@gmail.com
 
 ---
 
